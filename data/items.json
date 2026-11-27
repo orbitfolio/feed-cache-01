@@ -1,6 +1,168 @@
 {
-  "updated_at": "2026-11-26T21:30:21Z",
+  "updated_at": "2026-11-27T01:54:12Z",
   "newest_id": "2126056770011308316",
-  "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-  "items": []
+  "hash": "3481060429b4de4738a8fdad4c4591bed7f9ddd2043accf236df2d993bc28bc5",
+  "items": [
+    {
+      "id": "2126056770011308316",
+      "url": "https://x.com/LumaLabsAI/status/2126056770011308316",
+      "handle": "LumaLabsAI",
+      "text": "Someone at this potluck isn't who they say they are.\n\nMostly Human Ep. 102 | Turkey Shoot | A @DreamLabLA  Original 🍽️\n\nCreated by Taylor Cole\n\nDirector of Photography Jack Hahn\n\nStarring\n\nBlake Johnson\nTaylor Cole\nNancy Estrada\nBryan Soegondo\nJulia Harris\nTony Hou\nJosh DiCarlo h",
+      "created_at": "2026-11-26T20:53:28.000Z"
+    },
+    {
+      "id": "2126025460416921661",
+      "url": "https://x.com/togethercompute/status/2126025460416921661",
+      "handle": "togethercompute",
+      "text": "https://t.co/35htxLJumm",
+      "created_at": "2026-11-26T18:49:04.000Z"
+    },
+    {
+      "id": "2126016995728715864",
+      "url": "https://x.com/HeyGen/status/2126016995728715864",
+      "handle": "HeyGen",
+      "text": "Happy Thanksgiving from the HeyGen team \n\nThankful for every one of you who built with us this year https://t.co/ZAhAHWGdXe",
+      "created_at": "2026-11-26T18:15:25.000Z"
+    },
+    {
+      "id": "2125972619371446339",
+      "url": "https://x.com/databricks/status/2125972619371446339",
+      "handle": "databricks",
+      "text": "AI agents are everywhere. But how do they actually work, and what does it take to build one?\n\nOur free, 90-minute agentic AI training breaks down the fundamentals in three short videos:\n• How AI agents work\n• The tools behind agentic AI on Databricks\n• How to build and deploy htt",
+      "created_at": "2026-11-26T15:19:05.000Z"
+    },
+    {
+      "id": "2125915743212761359",
+      "url": "https://x.com/MistralAI/status/2125915743212761359",
+      "handle": "MistralAI",
+      "text": "Point taken 📍 \n\nMistral Large 4 finds the exact match and outlines it on the map. On visual grounding tasks, Le Chonk beats even closed frontier models. https://t.co/CtOArkM90v",
+      "created_at": "2026-11-26T11:33:05.000Z"
+    },
+    {
+      "id": "2125798914490249411",
+      "url": "https://x.com/Alibaba_Qwen/status/2125798914490249411",
+      "handle": "Alibaba_Qwen",
+      "text": "🎙️ New multilingual capabilities are here for Qwen-Audio-3.1! Especially for Chinese dialects.\n\nWe previously released the Qwen-Audio-3.1 series of speech foundation models. Today, we are bringing the enhanced multilingual capabilities, with a strong focus on Chinese dialects. ht",
+      "created_at": "2026-11-26T03:48:51.000Z"
+    },
+    {
+      "id": "2125787413784174730",
+      "url": "https://x.com/FireworksAI_HQ/status/2125787413784174730",
+      "handle": "FireworksAI_HQ",
+      "text": "Inkling 2 Small and Inkling 2 Mini, from US lab @thinkymachines, are live on Fireworks.\n\nUse Small for long-running agents. It scored 90.2% on BrowseComp, which tests whether an agent can dig up hard-to-find facts by searching across many web pages. $0.30 in / $1.00 out per 1M ht",
+      "created_at": "2026-11-26T03:03:09.000Z"
+    },
+    {
+      "id": "2125760937156399484",
+      "url": "https://x.com/togethercompute/status/2125760937156399484",
+      "handle": "togethercompute",
+      "text": "Together Link puts open models in the harness you already use.\n\nIn this demo: Claude Code triages GitHub issues, then spins up 3 subagents to implement fixes. A per-turn, cache-aware router sends easy turns to DeepSeek V4.1 Flash and hard ones to Opus 5.5.\n\nSession spend: $0.20 h",
+      "created_at": "2026-11-26T01:17:56.000Z"
+    },
+    {
+      "id": "2125722244139626910",
+      "url": "https://x.com/LumaLabsAI/status/2125722244139626910",
+      "handle": "LumaLabsAI",
+      "text": "The hunter becomes the hunted 🎯 \nHappy Thanksgiving from all of us at Luma ✌️ https://t.co/88iILSIOHo",
+      "created_at": "2026-11-25T22:44:11.000Z"
+    },
+    {
+      "id": "2125719888010543347",
+      "url": "https://x.com/FireworksAI_HQ/status/2125719888010543347",
+      "handle": "FireworksAI_HQ",
+      "text": "Hy4 Flash from @TencentGlobal is live on Fireworks.\n\nIt's on the score-cost Pareto frontier for every Specialized Intelligence Index benchmark we ran.\n\nOn CorporateBench it edges out Claude Opus 5.5 at over 200x less per task ($0.013 vs $2.80).\n\nTry it: https://t.co/qxK3eXX3fe ht",
+      "created_at": "2026-11-25T22:34:49.000Z"
+    },
+    {
+      "id": "2125709140425363612",
+      "url": "https://x.com/togethercompute/status/2125709140425363612",
+      "handle": "togethercompute",
+      "text": "We're open-sourcing our internal agent eval framework.\n\nIntroducing Hurdle: run agent evals on your product.\n\nTest how well Claude Code and Codex can use your APIs, docs, MCPs, and skills on real-world tasks.\n\nRead more: https://t.co/3iJ4gQVYdl",
+      "created_at": "2026-11-25T21:52:07.000Z"
+    },
+    {
+      "id": "2125690965952475281",
+      "url": "https://x.com/runwayml/status/2125690965952475281",
+      "handle": "runwayml",
+      "text": "We worked with the PyTorch team at Meta to bring Praxis-1 to ExecuTorch with NVIDIA TensorRT. Our open-weight world action model for robotics now runs up to 1.7x faster than our reference code on H100 and A100 GPUs with similar accuracy. https://t.co/IdKfuo6knf",
+      "created_at": "2026-11-25T20:39:54.000Z"
+    },
+    {
+      "id": "2125682482649739511",
+      "url": "https://x.com/midjourney/status/2125682482649739511",
+      "handle": "midjourney",
+      "text": "Midjourney Weekly Office Hours - Nov 25th https://t.co/ArbclwDHeb",
+      "created_at": "2026-11-25T20:06:11.000Z"
+    },
+    {
+      "id": "2125670943276061159",
+      "url": "https://x.com/databricks/status/2125670943276061159",
+      "handle": "databricks",
+      "text": "The biggest cost of a data pipeline isn't always compute. It's the engineering time spent building, optimizing, and keeping it running.\n\nSpark Declarative Pipelines changes that. Developers define the tables and transformations they want. The system handles execution, https://t.c",
+      "created_at": "2026-11-25T19:20:20.000Z"
+    },
+    {
+      "id": "2125668137018470771",
+      "url": "https://x.com/LumaLabsAI/status/2125668137018470771",
+      "handle": "LumaLabsAI",
+      "text": "The One Where @mrjonfinger  Becomes a Video Game Character — and the getaway car is an office chair. 🪑 \n\nUp top: a studio, a crash mat, and a very committed walk. Down below: the same walk, the same grab, the same drive… only now it's a palm-lined beach street in an open-world ht",
+      "created_at": "2026-11-25T19:09:11.000Z"
+    },
+    {
+      "id": "2125661445287510503",
+      "url": "https://x.com/ElevenLabs/status/2125661445287510503",
+      "handle": "ElevenLabs",
+      "text": "Government phone lines are staffed and designed for human callers.\n\nBy 2030, it’s predicted that more than 10 billion AI agents will make calls and file claims on people’s behalf.\n\nHere’s what it takes to fix the front door to government:\n\nhttps://t.co/7BbYEwyDgk https://t.co/PY9",
+      "created_at": "2026-11-25T18:42:36.000Z"
+    },
+    {
+      "id": "2125635627341561995",
+      "url": "https://x.com/OpenAI/status/2125635627341561995",
+      "handle": "OpenAI",
+      "text": "For ordinary days that feel like a movie. \n\nMake a Day Do Anything with ChatGPT. https://t.co/YBMlfbNaOb",
+      "created_at": "2026-11-25T17:00:00.000Z"
+    },
+    {
+      "id": "2125627317263466739",
+      "url": "https://x.com/AnthropicAI/status/2125627317263466739",
+      "handle": "AnthropicAI",
+      "text": "We recently migrated our Messages API from Python to Rust.\n\nOn our engineering blog, we share how we used the existing service to verify the new one, with teams of Claude agents tracking down and fixing differences between the two versions.\n\nhttps://t.co/NdrMzgrOwP",
+      "created_at": "2026-11-25T16:26:59.000Z"
+    },
+    {
+      "id": "2125623232254345407",
+      "url": "https://x.com/runwayml/status/2125623232254345407",
+      "handle": "runwayml",
+      "text": "Forget the squire. https://t.co/nTtEPeHJsj",
+      "created_at": "2026-11-25T16:10:45.000Z"
+    },
+    {
+      "id": "2125609045486707181",
+      "url": "https://x.com/databricks/status/2125609045486707181",
+      "handle": "databricks",
+      "text": "“If you're building something where you really care about speed or efficiency, and you're not considering open-source, you're leaving a lot on the table.”\n\nThe data is reflecting that shift. Our new AI Index shows open-source models gaining share of customer model usage through h",
+      "created_at": "2026-11-25T15:14:23.000Z"
+    },
+    {
+      "id": "2125425698764734767",
+      "url": "https://x.com/HeyGen/status/2125425698764734767",
+      "handle": "HeyGen",
+      "text": "Perfect usage of HeyGen + Claude workflow https://t.co/dpNzpQDswM",
+      "created_at": "2026-11-25T03:05:49.000Z"
+    },
+    {
+      "id": "2125407897899414006",
+      "url": "https://x.com/togethercompute/status/2125407897899414006",
+      "handle": "togethercompute",
+      "text": "Post-training frontier open models with RL gets harder at scale. On Dec 15, our research team will take you inside a real RL run on Together Post-Training: what to watch, what breaks, and how to get it right. \nIf you're evaluating or curious about post-training, register now! htt",
+      "created_at": "2026-11-25T01:55:05.000Z"
+    },
+    {
+      "id": "2125386225649594852",
+      "url": "https://x.com/FireworksAI_HQ/status/2125386225649594852",
+      "handle": "FireworksAI_HQ",
+      "text": "At Fireworks Forge, our CEO @lqiao and @NVIDIA’s @JensenHuang laid out their vision of a giant world of specialized super agents, built on open models and running on Fireworks.\n\nWelcome back, Jensen. We can’t wait to build what’s next together. https://t.co/7FXi0FldcH",
+      "created_at": "2026-11-25T00:28:58.000Z"
+    }
+  ]
 }
