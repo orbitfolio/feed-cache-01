@@ -14,5 +14,6 @@ Each item:
 - `handle`: account username, no `@`
 - `text`: post text, trimmed to 280 characters
 - `created_at`: ISO 8601 UTC
+- `media_type`: optional; present when the post has attached media. One or more of `photo`, `video`, `animated_gif`, comma-separated
 
 If a check finds no new posts, this file is left unchanged.
